@@ -289,14 +289,4 @@ Feel free to open issues or PRs. For quick local contributions:
 
 ---
 
-## License
 
-This project is provided as-is. Check the repository owner for license terms or apply the license you prefer.
-
----
-
-If you'd like, I can:
-- Add a `.env.example` file content,
-- Create Postman / Insomnia collections,
-- Extend the API docs with full example responses,
-- Or prepare a Docker Compose file for local dev.
